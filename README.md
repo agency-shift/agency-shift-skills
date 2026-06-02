@@ -90,7 +90,7 @@ We accept PRs that follow the [SKILL.md format](./agency-weekly-report/SKILL.md)
 
 If you've installed a few skills and you're thinking *"someone should set up the whole stack for me"* — that's what Agency Shift does. Done-with-you installs on the best stack, owned by your team, four to six weeks.
 
-**[agencyshift.dev](https://agencyshift.dev)** · [Book intro call](https://www.linkedin.com/in/valdeir-lima/)
+**[agencyshift.dev](https://agencyshift.dev)** · [Book intro call](https://cal.com/valdeir-lima-yfs2lk/15min)
 
 ---
 
